@@ -7,7 +7,6 @@ INDEX VERSION 1.126+C:\Users\Jewl Johnson II\Documents\GitHub\SSE-659\.metadata\
 949515501.index
 358050146.index
 3963179895.index
-1595926082.index
 881895235.index
 290714306.index
 847618560.index
